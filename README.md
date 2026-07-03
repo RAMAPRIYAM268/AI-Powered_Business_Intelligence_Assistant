@@ -1,1 +1,1 @@
-# AI-Powered_Business-_Intelligence-_Assistant
+# AI-Powered_Business_Intelligence_Assistant
