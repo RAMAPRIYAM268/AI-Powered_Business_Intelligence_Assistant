@@ -153,7 +153,7 @@ Add workflow and dashboard screenshots to the **Images** folder.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AI-Powered_Business_Intelligence_Assistant.git
+git clone https://github.com/RAMAPRIYAM268/AI-Powered_Business_Intelligence_Assistant.git
 ```
 
 Import the workflow into **n8n**.
