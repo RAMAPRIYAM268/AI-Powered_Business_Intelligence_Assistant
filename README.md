@@ -138,13 +138,12 @@ AI-Powered_Business_Intelligence_Assistant/
 
 # Solution Preview
 
-Add workflow and dashboard screenshots to the **Images** folder.
 
-```markdown
+
 ![Workflow Diagram](Images/Workflow_Diagram.png)
 
 ![Power BI Dashboard](Images/PowerBI_Dashboard.png)
-```
+
 
 ---
 
